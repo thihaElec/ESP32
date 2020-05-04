@@ -99,5 +99,5 @@ void loop() {
   delay(60000); // Wait 20 seconds to update the channel again
   delay(60000); // Wait 20 seconds to update the channel again
   delay(60000); // Wait 20 seconds to update the channel again
-  ESP.restart();
+
 }
